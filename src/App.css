@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: helvetica;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Gobal */
+p,
+h1 {
+  font-style: italic;
+}
+/*  */
+
+:root {
+  --main-theme-color: #00ffa8;
+}
